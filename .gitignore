@@ -1,0 +1,7 @@
+.venv
+.cache
+.direnv
+.envrc
+
+sounds
+out
